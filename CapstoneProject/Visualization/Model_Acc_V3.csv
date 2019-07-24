@@ -1,0 +1,8 @@
+Models_V3,Train_Batch_Accuracy,Validation_Batch_Accuracy,Test_Batch_Accuracy,Test_Accuracy
+vg16,98.96,85.08,79.79,68.08
+vg19,0.0,0.0,0.0,0.0
+inc,92.08,83.58,84.84,77.77
+incres,100.0,90.05,79.71,81.61
+xcep,98.96,96.52,84.84,93.33
+mob,99.37,94.52,27.27,86.46
+mobv2,92.71,67.66,46.46,66.26

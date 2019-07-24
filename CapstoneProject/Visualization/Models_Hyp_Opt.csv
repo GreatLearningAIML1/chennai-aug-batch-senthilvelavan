@@ -1,0 +1,8 @@
+Models_Hyp_Opt,Train_Batch_Accuracy,Validation_Batch_Accuracy,Test_Batch_Accuracy,Test_Accuracy
+sgd,99.79,94.53,89.89,89.09
+sgd-mom,99.8,96.52,92.92,93.13
+rms,98.96,98.5,83.83,93.33
+adagrad,99.8,93.53,92.92,93.53
+adadel,92.29,72.63,69.69,68.48
+nadam,99.7,96.02,89.89,93.13
+adam,98.96,96.52,84.84,93.77
